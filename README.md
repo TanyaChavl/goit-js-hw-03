@@ -1,4 +1,4 @@
-JavaScript Homework 01
+JavaScript Homework 03
 
 This homework assignment consists of the following tasks:
 
